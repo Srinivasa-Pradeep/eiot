@@ -3,7 +3,7 @@ import urllib
 import time
 import random
 
-key = "TON7HVENI4I72EEP"  # Put your API Key here
+key = ""
 
 while True:
     a = random.randint(0, 100)
