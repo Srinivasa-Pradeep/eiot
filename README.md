@@ -4,8 +4,7 @@ Semester
 
 Hi all this is a work of art.
 
-Njoy.................
-
+# Enjoy
 
 Exp 8
   -> sensor.sh
