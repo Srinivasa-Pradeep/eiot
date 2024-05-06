@@ -7,7 +7,7 @@ key = ""
 
 while True:
     a = random.randint(0, 100)
-    params = urllib.parse.urlencode({"field2": a, "key": key})
+    params = urllib.parse.urlencode({"field1": a, "key": key})
     conn = http.client.HTTPConnection("api.thingspeak.com:80")
     try:
         conn.request("POST", "/update", params)

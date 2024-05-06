@@ -12,6 +12,7 @@ Exp 8
 
 Exp 9
   -> nodered.sh
+  -> nodered.txt
 
 Exp 11
   -> thinkspeak.py
